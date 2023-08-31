@@ -26,6 +26,7 @@ dependencies {
     testRuntimeOnly 'org.slf4j:slf4j-simple:2.0.3'
     testImplementation 'org.seleniumhq.selenium:selenium-java:4.11.0'
     testImplementation 'io.github.bonigarcia:webdrivermanager:5.4.1'
+    testImplementation 'io.rest-assured:json-schema-validator:4.3.1'
 
 }
 
